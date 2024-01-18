@@ -5,4 +5,4 @@ Jeu de démineur programmé en java
 Tel un démineur classique, vous devez découvrir les cases sans tomber sur une mine, vous pouvez placer des drapeaux pour sécuriser une case. 
 Une fois toutes les cases sans mines découvertes, vous gagnez la partie.
 
-![Screenshot 2024-01-18 105032](https://github.com/NicolasGiry/Demineur/assets/114723956/92055cc6-9c1c-43c9-8f40-6b6a73f3bbbd)
+![Screenshot 2024-01-18 105507](https://github.com/NicolasGiry/Demineur/assets/114723956/9c597b7a-31a7-4271-9660-01f48c00640b)
